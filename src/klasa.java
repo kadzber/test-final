@@ -1,3 +1,4 @@
 public class klasa {
-    //klasa
+    //klasa final
+    // ddd
 }
